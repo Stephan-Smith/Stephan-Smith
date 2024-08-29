@@ -9,7 +9,6 @@ I am a live entertainment specialist with a profound interest in technology and 
 My journey in technology has led me to develop a passion for cybersecurity, specifically governace, risk, and compliance. With the help of mentors, certifications, and GRC courses, I am now eager to transition into this field, specifically aiming to join a team as a Governace, Risk, and Compliance (GRC) Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
