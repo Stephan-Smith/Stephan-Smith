@@ -12,18 +12,18 @@ My journey in technology has led me to develop a passion for cybersecurity, spec
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Controls Assessment             |[Controls assessment 6_12_23.pdf](https://github.com/user-attachments/files/16790985/Controls.assessment.6_12_23.pdf) </a>|
-| Network Traffic Monitoring and Attack Detection | [Cybersecurity incident report- network traffic analysis 2024.pdf](https://github.com/user-attachments/files/16791021/_Cybersecurity.incident.report-.network.traffic.analysis.2024.pdf  (https://github.com/Stephan-Smith/Network-Traffic-Analysis-/commits?author=Stephan-Smith))</a>|
-| Ananlyizing Network Attacks         |[Security Incident Report 1  (1).pdf](https://github.com/user-attachments/files/16791037/Security.Incident.Report.1.1.pdf)</a>|
-| Applying OS Hardening Techniques      | [Security Incident Report 2 (1).pdf](https://github.com/user-attachments/files/16791034/Security.Incident.Report.2.1.pdf)</a>|
-| Phishing Emials           |[Phishing presentation .pdf](https://github.com/user-attachments/files/16791126/Phishing.presentation.pdf)</a>|
+| Controls Assessment             |<a href="https://github.com/Stephan-Smith/Security-Audit">Security Audit</a>|
+| Network Traffic Monitoring and Attack Detection |<a href="https://github.com/Stephan-Smith/Network-Traffic-Analysis-">Network Traffic Analysis</a>|
+| Ananlyizing Network Attacks         |<a href="https://github.com/Stephan-Smith/Security-Incident-Report ">Security Incident Report</a>|
+| Applying OS Hardening Techniques      |<a href="https://github.com/Stephan-Smith/Security-Incident-Report ">Security Incident Report</a>|
+| Phishing Emials           |<a href="https://github.com/Stephan-Smith/Phishing">Phishing</a>|
 
 ## Certifications
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://www.coursera.org/google-certificates/cybersecurity-certificate" target="_blank">Google Cybersecurity Certificate</a>
 
 ## Projects
-- Network Traffic Analysis
-- Security Audit
-- Phishing Emails
-- Risk & Controls Assessment 
+- <a href="https://github.com/Stephan-Smith/Network-Traffic-Analysis-">Network Traffic Analysis</a>
+- <a href="https://github.com/Stephan-Smith/Security-Audit">Security Audit</a>
+- <a href="https://github.com/Stephan-Smith/Security-Incident-Report ">Security Incident Report</a>
+- <a href="https://github.com/Stephan-Smith/Phishing">Phishing</a>
