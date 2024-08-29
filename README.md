@@ -12,8 +12,8 @@ My journey in technology has led me to develop a passion for cybersecurity, spec
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Controls Assessment             |[Controls assessment 6_12_23.pdf](https://github.com/user-attachments/files/16790985/Controls.assessment.6_12_23.pdf)</a>|
-| Network Traffic Monitoring and Attack Detection | [Cybersecurity incident report- network traffic analysis 2024.pdf](https://github.com/user-attachments/files/16791021/_Cybersecurity.incident.report-.network.traffic.analysis.2024.pdf)</a>|
+| Controls Assessment             |[Controls assessment 6_12_23.pdf](https://github.com/user-attachments/files/16790985/Controls.assessment.6_12_23.pdf) </a>|
+| Network Traffic Monitoring and Attack Detection | [Cybersecurity incident report- network traffic analysis 2024.pdf](https://github.com/user-attachments/files/16791021/_Cybersecurity.incident.report-.network.traffic.analysis.2024.pdf  (https://github.com/Stephan-Smith/Network-Traffic-Analysis-/commits?author=Stephan-Smith))</a>|
 | Ananlyizing Network Attacks         |[Security Incident Report 1  (1).pdf](https://github.com/user-attachments/files/16791037/Security.Incident.Report.1.1.pdf)</a>|
 | Applying OS Hardening Techniques      | [Security Incident Report 2 (1).pdf](https://github.com/user-attachments/files/16791034/Security.Incident.Report.2.1.pdf)</a>|
 | Phishing Emials           |[Phishing presentation .pdf](https://github.com/user-attachments/files/16791126/Phishing.presentation.pdf)</a>|
